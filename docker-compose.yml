@@ -2,9 +2,9 @@ services:
   web:
     build: .
     environment:
-      EMAIL_HOST_USER: 'your_account@gmail.com'
-      EMAIL_HOST_PASSWORD: 'xxxxxxxxxxxx'
-      DEFAULT_FROM_EMAIL: 'My Blog <your_account@gmail.com>'
+      EMAIL_HOST_USER: 'tlhomedipetrus@gmail.com'
+      EMAIL_HOST_PASSWORD: 'ALX098765'
+      DEFAULT_FROM_EMAIL: 'My Blog <tlhomedipetrus@gmail.com>'
       DB_HOST: 'db'
       DB_USER: 'postgres'
       DB_PASSWORD: 'postgres'
